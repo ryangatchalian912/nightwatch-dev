@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="excel-import.spec"
+    errors="0" failures="1" hostname="" id="" package="excel-import.spec" skipped="0"
+    tests="2" time="10.68" timestamp="">
+  
+    <testcase name="Test that login fails on incorrect password" classname="excel-import.spec" time="2.682" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test that import button exists" classname="excel-import.spec" time="7.996" assertions="2">
+
+      <failure message="Testing if the page title equals &#39;03_Forecast_COST CODE LEVEL&#39; in 5000ms - expected &#34;is &#39;03_Forecast_COST CODE LEVEL&#39;&#34; but got: &#34;&#34; (5357ms)">    at DescribeInstance.&lt;anonymous&gt; (C:\Caspio-PS\PS-Development\cas_ryangatchali\tools\nightwatch-dev\tests\e2e\excel-import.spec.js:33:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
